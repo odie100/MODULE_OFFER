@@ -9,6 +9,6 @@ import java.util.List;
 
 @Repository
 public interface OfferRepository extends JpaRepository<Offer, Long> {
-    @Query("SELECT o FROM Offer o where o.client.id = ?1")
+    @Query("SELECT o FROM Offer o where o.client_id = ?1")
     List<Offer> findByClientID(Long id);
 }

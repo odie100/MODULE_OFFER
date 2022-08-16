@@ -19,6 +19,7 @@ public class OfferResponseDTO {
     private LocalDate post_date;
     private int applicant_number;
     private float budget;
+    private Long client_id;
 
     Client client;
     Category category;
