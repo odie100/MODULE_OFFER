@@ -18,4 +18,6 @@ public interface OfferService {
     List<OfferResponseDTO> getAllOffer();
 
     List<OfferResponseDTO> getAllByClientId(Long id);
+
+    int updateStatus(Long id);
 }

@@ -20,4 +20,5 @@ public class OfferModel {
     private Long client;
     private Long category;
     private Float budget;
+    private String status;
 }

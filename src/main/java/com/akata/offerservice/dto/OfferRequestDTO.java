@@ -19,6 +19,7 @@ public class OfferRequestDTO {
     private int applicant_number;
     private float budget;
     private Long client_id;
+    private String status;
     Client client;
     Category category;
 }

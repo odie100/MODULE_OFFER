@@ -18,6 +18,7 @@ public class Offer {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long offer_id;
     private String theme;
+    @Column(columnDefinition = "TEXT")
     private String details;
     private LocalDate deadline;
     private LocalDate post_date;
@@ -25,6 +26,7 @@ public class Offer {
 
     private Float budget;
     private Long client_id;
+    private String status;
 
     @Transient
     Client client;

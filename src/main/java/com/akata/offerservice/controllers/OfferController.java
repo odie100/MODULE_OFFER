@@ -61,4 +61,9 @@ public class OfferController {
     public List<OfferResponseDTO> getAllByIdClient(@PathVariable("id") Long id){
         return this.offerService.getAllByClientId(id);
     }
+
+    @PutMapping(path = "/updateStatus/{id}")
+    public int updateStatus(@PathVariable("id") Long id){
+        return this.offerService.updateStatus(id);
+    }
 }

@@ -52,6 +52,7 @@ public class OfferServiceImpl implements OfferService {
         offerRequestDTO.setCategory(this.categoryMapper.categoryResponseDTOCategory(this.categoryService
                 .getCategory(offerModel.getCategory())));
         offerRequestDTO.setClient_id(offerModel.getClient());
+        offerRequestDTO.setStatus("in progress");
 
         Offer offer = this.offerMapper.offerRequestDTOOffer(offerRequestDTO);
 
@@ -98,5 +99,10 @@ public class OfferServiceImpl implements OfferService {
             offer.setClient(client);
         }
         return offers.stream().map((offer -> this.offerMapper.offerToOfferResponseDTO(offer))).collect(Collectors.toList());
+    }
+
+    @Override
+    public int updateStatus(Long id) {
+        return this.offerRepository.updateStatus(id);
     }
 }
