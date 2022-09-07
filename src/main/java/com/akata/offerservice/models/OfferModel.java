@@ -21,4 +21,5 @@ public class OfferModel {
     private Long category;
     private Float budget;
     private String status;
+    private String specification;
 }

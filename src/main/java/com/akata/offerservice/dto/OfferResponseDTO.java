@@ -21,6 +21,7 @@ public class OfferResponseDTO {
     private float budget;
     private Long client_id;
     private String status;
+    private String specification;
 
     Client client;
     Category category;

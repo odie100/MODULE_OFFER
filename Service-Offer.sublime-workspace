@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h3"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"a",
+				"class"
+			],
+			[
+				"o",
+				"for"
+			],
+			[
+				"t",
+				"try"
+			],
+			[
+				"li",
+				"liste2"
+			],
+			[
+				"po",
+				"port"
+			],
+			[
+				"cro",
+				"corps1"
+			],
+			[
+				"cop",
+				"corps"
+			],
+			[
+				"in",
+				"incrementeListe"
+			],
+			[
+				"coo",
+				"coordonee"
+			],
+			[
+				"l",
+				"launched"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"se",
+				"sentence"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/services/RatingService.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/services/StudentServiceImpl.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/services/ContactServiceImpl.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/services/ApplyServiceImpl.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/repository/ApplyRepository.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/repository/ContactRepository.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/dto/StudentResponseDTO.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/configuration/FileStorageProperties.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/model/StudentModel.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/configuration/MvcConfig.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/services/FileStorageService.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/controllers/StudentController.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/model/Client.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/controllers/ExperienceController.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/controllers/FileController.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/services/interfaces/StudentService.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/resources/application.properties",
+		"/home/odie/.cache/.fr-HZRWT2/My DOc/Git Token",
+		"/home/odie/.cache/.fr-nkFzs1/xojo2022r2/Read Mes/README-JPEG.TXT",
+		"/home/odie/.cache/.fr-evzsKd/My DOc/recette",
+		"/home/odie/.cache/.fr-durROJ/My DOc/recette",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Email/Service-Email/src/main/resources/templates/email-template.html",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Email/Service-Email/pom.xml",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Email/Service-Email/src/main/java/com/akata/serviceemail/controller/EmailController.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Email/Service-Email/src/main/resources/application.properties",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Email/Service-Email/src/main/java/com/akata/serviceemail/ServiceEmailApplication.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Email/Service-Email/src/main/java/com/akata/serviceemail/service/EmailService.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Email/Service-Email/src/main/java/com/akata/serviceemail/model/EmailModel.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Email/Service-Email/src/main/java/com/akata/serviceemail/config/ThymeleafTemplateConfig.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Rapport",
+		"/media/odie/My space/Personnal/My DOc/Git Token",
+		"/media/odie/My space/Personnal/Bosy/Analyse de données/Prise de note",
+		"/home/odie/.cache/.fr-Y93VPA/GTA San Andreas/Password.txt",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Rapport de stage/Bloc note",
+		"/media/odie/My space/Personnal/Bosy/CPI/Exo_CPI.txt",
+		"/media/odie/My space/Personnal/Bosy/CPI/cpi.txt",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Client/Service-Client/pom.xml",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Client/Service-Client/mvnw",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/akata-evaluation",
+		"/home/odie/Downloads/CainAbel/Password.txt",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/pom.xml",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Client/Service-Client/src/main/java/com/akata/clientservice/services/LocationServiceImpl.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Client/Service-Client/src/main/java/com/akata/clientservice/services/interfaces/LocationService.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Client/Service-Client/src/main/java/com/akata/clientservice/repository/LocationRepository.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Client/Service-Client/src/main/java/com/akata/clientservice/model/ClientModel.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Client/Service-Client/src/main/java/com/akata/clientservice/model/ContactModel.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Offer/Service-Offer/src/main/resources/application.properties",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service-Student/Service-Student/src/main/java/com/akata/studentservice/repository/StudentRepository.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Demo/MailDemo/src/main/java/com/example/maildemo/service/EmailService.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/controllers/AuthenticationController.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/entities/Client.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/dto/LocationResponseDTO.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/dto/ClientResponseDTO.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/models/SignInModel.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/entities/User.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/mappers/OfferMapper.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/services/OfferServiceImpl.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/entities/Location.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Gateway/Gateway/pom.xml",
+		"/media/odie/My space/Personnal/My DOc/MapWess",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/services/CategoryServiceImpl.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/repository/OfferRepository.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/dto/OfferRequestDTO.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/dto/ContactRequestDTO.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/dto/ContactResponseDTO.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/dto/SRecommendationRequestDTO.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/dto/SRecommendationResponseDTO.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/entities/Student.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/mappers/StudentMapper.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/repository/StudentRepository.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/mappers/LocationMapper.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/controllers/ClientController.java",
+		"/media/odie/My space/Personnal/Stage WorkSpace/Akata Goavana/Backend/Service/src/main/java/com/akata/application/repository/ClientRepository.java",
+		"/home/odie/Desktop/dump-reservation-202207051711",
+		"/home/odie/Desktop/entretien",
+		"/home/odie/Desktop/Liste",
+		"/media/odie/My space/Personnal/My DOc/pssw.txt",
+		"/home/odie/Downloads/Compressed/open-react-template-master/src/index.js",
+		"/home/odie/Downloads/test.py",
+		"/home/odie/Downloads/Compressed/landy-react-template-master/LICENSE",
+		"/home/odie/Downloads/Compressed/open-react-template-master/src/App.css",
+		"/home/odie/Downloads/Compressed/src/Login.java",
+		"/home/odie/Downloads/Compressed/src/MysqlConnection.java",
+		"/home/odie/Downloads/Compressed/src/empdb.sql",
+		"/media/odie/My space/Personnal/.fich",
+		"/home/odie/Downloads/Compressed/BEPb-main/README.md",
+		"/home/odie/Documents/CISPRING/IJWorkspace/src/main/resources/application.properties",
+		"/media/odie/My space/Personnal/Stage WorkSpace/GDC24/Back-end/pom.xml",
+		"/home/odie/Desktop/General/Scripts/Script-3.sql",
+		"/home/odie/Documents/IJWorkspace/src/main/java/com/unidev/app/entities/Users.java",
+		"/home/odie/Documents/IJWorkspace/src/main/java/com/unidev/app/controller/AccountController.java",
+		"/home/odie/Downloads/Question2.java",
+		"/media/odie/My space/Personnal/My DOc/.pssw.txt",
+		"/media/odie/My space/Utilitaire/evillimiter/README.md",
+		"/home/odie/Desktop/SOS",
+		"/media/odie/My space/New_Desktop/DAPV/src/application/ConnectionMySql.java",
+		"/home/odie/Desktop/reservation.sql",
+		"/home/odie/Documents/IJWorkspace/src/main/java/com/unidev/app/controller/AuthController.java",
+		"/home/odie/Documents/IJWorkspace/src/main/java/com/unidev/app/service/Function.java",
+		"/home/odie/Desktop/a.py",
+		"/media/odie/My space/Cours/Pdf Util/CD3/S6_09_WEB_DYNAMIQUE_PHP/EASYPHP_DEVSERVER_16_1/EDS_MODULES/PHPMYADMIN4551X161229221326/JS/CODEMIRROR/MODE/JAVASCRIPT/JAVASCRIPT.JS",
+		"/run/user/1000/gvfs/mtp:host=INFINIX_MOBILITY_LIMITED_Infinix_HOT_10T_069683716L100605/Mémoire interne partagée/Download/Telegram/Extension/manifest.json",
+		"/run/user/1000/gvfs/mtp:host=INFINIX_MOBILITY_LIMITED_Infinix_HOT_10T_069683716L100605/Mémoire interne partagée/Download/Telegram/Extension/result.html",
+		"/run/user/1000/gvfs/mtp:host=INFINIX_MOBILITY_LIMITED_Infinix_HOT_10T_069683716L100605/Mémoire interne partagée/Download/Telegram/Extension/css/main.css",
+		"/run/user/1000/gvfs/mtp:host=INFINIX_MOBILITY_LIMITED_Infinix_HOT_10T_069683716L100605/Mémoire interne partagée/Download/Telegram/Extension/css/style.css",
+		"/run/user/1000/gvfs/mtp:host=INFINIX_MOBILITY_LIMITED_Infinix_HOT_10T_069683716L100605/Mémoire interne partagée/Download/Telegram/Extension/Paypal.html",
+		"/run/user/1000/gvfs/mtp:host=INFINIX_MOBILITY_LIMITED_Infinix_HOT_10T_069683716L100605/Mémoire interne partagée/Download/Telegram/Extension/background.js",
+		"/run/user/1000/gvfs/mtp:host=INFINIX_MOBILITY_LIMITED_Infinix_HOT_10T_069683716L100605/Mémoire interne partagée/Download/Telegram/Extension/1xgames.html",
+		"/home/odie/.cache/.fr-S1TxdQ/platform-23.0.8/vaadin-platform-gradle-test/src/main/java/com/vaadin/platform/gradle/test/service/GreetService.java",
+		"/home/odie/Documents/IJWorkspace/src/main/java/com/unidev/app/entities/Cash.java",
+		"/home/odie/Documents/IJWorkspace/src/main/java/com/unidev/app/repository/CashRepository.java",
+		"/home/odie/Downloads/Compressed/victorConky1.1/readme.txt",
+		"/home/odie/Downloads/Compressed/victorConky1.1/install.sh",
+		"/media/odie/My space/Personnal/My DOc/atiala.txt",
+		"/home/odie/Documents/IJWorkspace/src/main/resources/application.properties",
+		"/home/odie/Documents/Composants/apache-tomcat-10.0.13/README.md",
+		"/home/odie/Documents/Composants/apache-tomcat-10.0.13/RUNNING.txt",
+		"/home/odie/sqlmap-dev/sqlmap.py",
+		"/home/odie/Documents/Composants/apache-tomcat-10.0.13/NOTICE",
+		"/home/odie/Documents/Composants/apache-tomcat-10.0.13/RELEASE-NOTES",
+		"/media/odie/My space/Personnal/Bosy/Formation/HTML&CSS/index.html",
+		"/run/user/1000/gvfs/mtp:host=HTC_Android_Phone_HC36WMP00148/Internal storage/Nono be/Example HTML CSS/README.txt",
+		"/media/odie/My space/Dora/NetBeansProjects/mavenproject1/src/main/java/com/hesoyam/testFX/SecondaryController.java",
+		"/media/odie/My space/Dora/NetBeansProjects/mavenproject1/src/main/java/com/hesoyam/testFX/PrimaryController.java",
+		"/media/odie/My space/Personnal/Bosy/JavaWeb/Project/Project_JSP/src/main/webapp/plugins/bootstrap/js/bootstrap.js",
+		"/media/odie/My space/dash_board odie/asset/fontawesome/css/all.min.css",
+		"/home/odie/Documents/IJWorkspace/src/main/java/com/unidev/app/payload/SignInRequest.java",
+		"/media/odie/My space/Personnal/Bosy/Formation/Training/Python/compressor.dat"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Service-Offer.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 379.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

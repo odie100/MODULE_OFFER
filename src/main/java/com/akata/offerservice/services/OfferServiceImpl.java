@@ -52,6 +52,7 @@ public class OfferServiceImpl implements OfferService {
         offerRequestDTO.setCategory(this.categoryMapper.categoryResponseDTOCategory(this.categoryService
                 .getCategory(offerModel.getCategory())));
         offerRequestDTO.setClient_id(offerModel.getClient());
+        offerRequestDTO.setSpecification(offerModel.getSpecification());
         offerRequestDTO.setStatus("in progress");
 
         Offer offer = this.offerMapper.offerRequestDTOOffer(offerRequestDTO);
