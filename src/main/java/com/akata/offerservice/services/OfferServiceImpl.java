@@ -62,7 +62,15 @@ public class OfferServiceImpl implements OfferService {
 
     @Override
     public OfferResponseDTO getOffer(Long id) {
-        return this.offerMapper.offerToOfferResponseDTO(this.offerRepository.findById(id).get());
+        Offer offer = this.offerRepository.findById(id).get();
+        Client client = null;
+        try {
+            client = this.offerRestClient.getClient(offer.getClient_id());
+        }catch (DataAccessException e){
+            System.out.println("Client not found");
+        }
+        offer.setClient(client);
+        return this.offerMapper.offerToOfferResponseDTO(offer);
     }
 
     @Override
@@ -85,8 +93,13 @@ public class OfferServiceImpl implements OfferService {
     @Override
     public List<OfferResponseDTO> getAllOffer() {
         List<Offer> offers = this.offerRepository.findAll();
+        Client client = null;
         for (Offer offer : offers){
-            Client client = this.offerRestClient.getClient(offer.getClient_id());
+            try {
+                client = this.offerRestClient.getClient(offer.getClient_id());
+            }catch (Exception e){
+                System.out.println("Client not found");
+            }
             offer.setClient(client);
         }
         return offers.stream().map(offer -> this.offerMapper.offerToOfferResponseDTO(offer)).collect(Collectors.toList());
