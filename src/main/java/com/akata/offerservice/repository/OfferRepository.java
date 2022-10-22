@@ -18,4 +18,5 @@ public interface OfferRepository extends JpaRepository<Offer, Long> {
     @Transactional
     @Query("UPDATE Offer o set o.status = 'confirmed' where o.offer_id = ?1")
     int updateStatus(Long id);
+
 }

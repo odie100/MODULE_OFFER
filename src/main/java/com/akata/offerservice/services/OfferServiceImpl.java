@@ -8,6 +8,7 @@ import com.akata.offerservice.mapper.OfferMapper;
 import com.akata.offerservice.models.Client;
 import com.akata.offerservice.models.OfferModel;
 import com.akata.offerservice.openfeign.OfferRestClient;
+import com.akata.offerservice.openfeign.OfferRestStudent;
 import com.akata.offerservice.repository.OfferRepository;
 import com.akata.offerservice.services.interfaces.CategoryService;
 import com.akata.offerservice.services.interfaces.OfferService;
@@ -34,6 +35,9 @@ public class OfferServiceImpl implements OfferService {
 
     @Autowired
     private CategoryService categoryService;
+
+    @Autowired
+    private OfferRestStudent offerRestStudent;
 
     @Override
     public OfferResponseDTO save(OfferModel offerModel) {
@@ -70,6 +74,7 @@ public class OfferServiceImpl implements OfferService {
             System.out.println("Client not found");
         }
         offer.setClient(client);
+        offer.setApplicant_number(this.offerRestStudent.countApplier(id));
         return this.offerMapper.offerToOfferResponseDTO(offer);
     }
 
@@ -101,6 +106,7 @@ public class OfferServiceImpl implements OfferService {
                 System.out.println("Client not found");
             }
             offer.setClient(client);
+            offer.setApplicant_number(this.offerRestStudent.countApplier(offer.getOffer_id()));
         }
         return offers.stream().map(offer -> this.offerMapper.offerToOfferResponseDTO(offer)).collect(Collectors.toList());
     }
